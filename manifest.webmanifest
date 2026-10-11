@@ -1,11 +1,27 @@
+
 {
+  "id": "/mallika-grocery-store/",
   "name": "MALLIKA GROCERY STORE",
-  "short_name": "Mallika Billing",
+  "short_name": "Mallika Store",
   "description": "Offline-first grocery billing and stock management",
-  "start_url": "./index.html",
+  "start_url": "/mallika-grocery-store/",
+  "scope": "/mallika-grocery-store/",
   "display": "standalone",
-  "background_color": "#f1f5f9",
-  "theme_color": "#0f766e",
+  "background_color": "#ffffff",
+  "theme_color": "#087a35",
   "orientation": "portrait",
-  "icons": []
+  "icons": [
+    {
+      "src": "/mallika-grocery-store/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mallika-grocery-store/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
