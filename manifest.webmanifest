@@ -1,0 +1,11 @@
+{
+  "name": "MALLIKA GROCERY STORE",
+  "short_name": "Mallika Billing",
+  "description": "Offline-first grocery billing and stock management",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0f766e",
+  "orientation": "portrait",
+  "icons": []
+}
